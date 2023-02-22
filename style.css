@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-bg: linear-gradient(to top, #d987cd, #00d4ff);
+  --line-color: linear-gradient(to left top, #82ff86 20%, #144425, #104e1c);
+  --leaf-color: linear-gradient(to bottom, #ffe785, #faf573, #1a233a 99%);
+  --fall-leaf-color: linear-gradient(to bottom, #ffe785, #faf573, #e2d64f 99%);
+}
